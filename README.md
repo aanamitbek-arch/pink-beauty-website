@@ -1,4 +1,4 @@
-# pink-beauty-website
+# Pink-beauty-website
 Pink Beauty is a modern beauty website featuring manicure, makeup, and skincare services. Designed with an elegant pink aesthetic, beautiful photos, and a clean, user-friendly interface. Built with React and CSS.
 
 🔗 [Live Demo Website](https://aanamitbek-arch.github.io/pink-beauty-website/)
@@ -7,11 +7,9 @@ Pink Beauty is a modern beauty website featuring manicure, makeup, and skincare 
 
 | Главный экран (Hero) | Раздел 2 (About Us) |
 | :---: | :---: |
-| ![Главный экран](hero.png) | ![Раздел 2](about.png) |
+| ![Главный экран](hero.png.png) | ![Раздел 2](about.png.png) |
 | **Раздел 3 (Services)** | **Раздел 4 (Contact)** |
-| ![Раздел 3](services.png) | ![Раздел 4](contact.png) |
-
----
+| ![Раздел 3](services.png.png) | ![Раздел 4](contact.png.png) |
 
 #### 📌 Key Sections
 * **Hero Section:** Welcoming header with brand statement, aesthetic imagery, and call-to-action button ("Explore Services").
