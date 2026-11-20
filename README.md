@@ -23,7 +23,7 @@ Pink Beauty is a modern beauty website featuring manicure, makeup, and skincare 
 
 | Category | Used Stack |
 | :--- | :--- |
-| **Languages** | HTML5, CSS3, JavaScript (ES6+) |
+| **Languages** | React, Vite, HTML5, CSS3, JavaScript/TypeScript |
 | **Design System** | Шрифты, цветовая палитра, UI-стиль |
 | **UI/UX Architecture** | Responsive Grid Layout, Single-Page / Multi-Page |
 | **Version Control** | Git, GitHub |
