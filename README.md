@@ -5,11 +5,11 @@ Pink Beauty is a modern beauty website featuring manicure, makeup, and skincare 
 
 ## 📷 Interface Screenshots
 
-| Главный экран (Hero) | Раздел 2 |
+| Главный экран (Hero) | Раздел 2 (About Us) |
 | :---: | :---: |
-| ![Главный экран]("C:\Users\Hp\Pictures\Screenshots\Снимок экрана 2026-11-20 134555.png") | ![Раздел 2]("C:\Users\Hp\Pictures\Screenshots\Снимок экрана 2026-11-20 134656.png") |
-| **Раздел 3** | **Раздел 4** |
-| ![Раздел 3]("C:\Users\Hp\Pictures\Screenshots\Снимок экрана 2026-11-20 134729.png") | ![Раздел 4]("C:\Users\Hp\Pictures\Screenshots\Снимок экрана 2026-11-20 134759.png") |
+| ![Главный экран](hero.png) | ![Раздел 2](about.png) |
+| **Раздел 3 (Services)** | **Раздел 4 (Contact)** |
+| ![Раздел 3](services.png) | ![Раздел 4](contact.png) |
 
 ---
 
